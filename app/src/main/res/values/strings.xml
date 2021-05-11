@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppAdvinha</string>
+    <string name="introduz_o_numero">Introduz o Numero</string>
+    <string name="numero_randomico">Numero Randomico</string>
+    <string name="tentativas">Tentativas</string>
+    <string name="enviar">Enviar</string>
+</resources>
