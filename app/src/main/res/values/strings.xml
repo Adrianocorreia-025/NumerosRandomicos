@@ -4,4 +4,9 @@
     <string name="numero_randomico">Numero Randomico</string>
     <string name="tentativas">Tentativas</string>
     <string name="enviar">Enviar</string>
+    <string name="Perdeu">Perdeu</string>
+    <string name="acertou">acertou</string>
+    <string name="Prencha_Este_Campo">Prencha_Este_Campo</string>
+    <string name="Jogar_Novamente">Pretende Jogar de NOVO?</string>
+
 </resources>
